@@ -2,7 +2,7 @@ package com.example.emu.jni;
 
 import android.content.Context;
 
-import com.example.emu.device.AndroidDeviceIMEIUtil;
+import com.example.emu.deviceid.AndroidDeviceIMEIUtil;
 
 public class EmulatorDetectUtil {
 
