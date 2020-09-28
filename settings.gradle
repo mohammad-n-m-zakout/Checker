@@ -1,0 +1,3 @@
+include ':emu'
+include ':app'
+rootProject.name = "Checker"
