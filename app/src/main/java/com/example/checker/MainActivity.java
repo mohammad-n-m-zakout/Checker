@@ -6,7 +6,8 @@ import android.os.Bundle;
 import android.util.Log;
 import android.widget.Toast;
 
-import com.example.emu.jni.EmulatorDetectUtil;
+import com.snail.antifake.jni.EmulatorDetectUtil;
+
 
 public class MainActivity extends AppCompatActivity {
 
